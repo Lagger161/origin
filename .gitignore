@@ -1,0 +1,7 @@
+#Скрываем файлы с суффиксами _old и _backup
+*_old
+*_backup
+#игнорируем файлы подкатолога tmp
+tmp/
+Thumbs.db
+.DS_Store
